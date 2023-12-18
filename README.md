@@ -14,7 +14,7 @@
 2. Запустите `WebSocketServer.exe`.
 
 Должно появиться сообщение:
-Press ESCAPE to terminate program
+Press ESCAPE to terminate program,
 Starting up TCP server
 
 
